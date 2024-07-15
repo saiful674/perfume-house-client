@@ -1,9 +1,9 @@
-import { Button } from "./components/ui/button";
+import Navbar from "./UI/shared/Navbar";
 
 const App = () => {
   return (
     <div className="text-red-600">
-      <Button variant={"outline"}>Clicked me</Button>
+      <Navbar />
     </div>
   );
 };
