@@ -1,11 +1,9 @@
-import Banner from "./UI/components/banner/Banner";
-import Navbar from "./UI/shared/Navbar";
+import MainLayout from "./UI/components/layouts/MainLayout";
 
 const App = () => {
   return (
-    <div className="text-red-600">
-      <Navbar />
-      <Banner />
+    <div>
+      <MainLayout />
     </div>
   );
 };
