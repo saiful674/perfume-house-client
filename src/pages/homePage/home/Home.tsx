@@ -1,9 +1,11 @@
 import Banner from "@/UI/components/banner/Banner";
+import Category from "../category/Category";
 
 const Home = () => {
   return (
     <div>
-      <Banner></Banner>
+      <Banner />
+      <Category />
     </div>
   );
 };
