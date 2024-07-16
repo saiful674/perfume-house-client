@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "title": "Musk Al Haram",
+    "description": "Musk Al Haram is a rich and deep musk fragrance with woody undertones that has been cherished for centuries. This attar captures the essence of traditional Arabian perfumery, providing a timeless scent that lingers gracefully. The base notes are earthy and robust, blending seamlessly with a slightly sweet undertone that makes it versatile for both men and women. The fragrance opens with a bold musk that gradually mellows into a soothing woody aroma, ideal for daily wear or special occasions. Its long-lasting nature ensures that a little goes a long way, enveloping you in a warm, inviting scent throughout the day. Musk Al Haram is particularly popular during the colder months due to its warm and enveloping scent. It is crafted using the finest quality ingredients sourced from various parts of the Arabian Peninsula, ensuring an authentic and luxurious fragrance experience.",
+    "measurement": "12 ml",
+    "image": "https://dreamingtheme.kiendaotac.com/html/stelina/assets/images/product-item-1.jpg",
+    "category": "Musk",
+    "origin": "Saudi Arabia",
+    "ingredients": ["Musk", "Oudh"],
+    "price": "$15",
+    "additionalInfo": {
+      "longevity": "8-12 hours",
+      "sillage": "Moderate",
+      "application": "Roll-on"
+    }
+  },
+  {
+    "id": 2,
+    "title": "Rose Attar",
+    "description": "Rose Attar is a sweet and floral fragrance made from the essence of roses, offering a delicate and enchanting scent that is both romantic and soothing. This attar is a celebration of one of the most beloved flowers in perfumery, capturing the pure, fresh aroma of blooming roses. Ideal for those who appreciate a light yet noticeable fragrance, Rose Attar is perfect for daily wear or for special occasions where a touch of elegance is desired. The scent opens with a fresh, dewy rose note, which then unfolds into a more complex floral bouquet with subtle hints of green and woody undertones, providing a well-rounded and sophisticated aroma. Rose Attar is particularly favored in the spring and summer months, where its light and airy scent can fully blossom. It is crafted using the finest rose petals sourced from the renowned rose gardens of India, ensuring an authentic and luxurious fragrance experience.",
+    "measurement": "10 ml",
+    "image": "https://dreamingtheme.kiendaotac.com/html/stelina/assets/images/product-item-12.jpg",
+    "category": "Floral",
+    "origin": "India",
+    "ingredients": ["Rose", "Sandalwood"],
+    "price": "$12",
+    "additionalInfo": {
+      "longevity": "6-8 hours",
+      "sillage": "Light",
+      "application": "Roll-on"
+    }
+  },
+  {
+    "id": 3,
+    "title": "Oudh Al Misk",
+    "description": "Oudh Al Misk is a luxurious and exotic blend of oudh and musk that brings a sense of opulence and depth to any fragrance collection. Known for its intense and captivating scent, Oudh Al Misk combines the rich, smoky aroma of oudh with the sweet, earthy notes of musk. This attar is perfect for those who seek a bold and unforgettable fragrance that stands out. The scent profile begins with a strong, woody oudh note that gradually softens into a harmonious blend with musk, creating a scent that is both powerful and alluring. Ideal for evening wear or special occasions, Oudh Al Misk is a fragrance that leaves a lasting impression. This attar is particularly cherished during festive occasions and important events, where its luxurious scent can truly shine. It is crafted using the highest quality oudh and musk sourced from the Middle East, ensuring an authentic and indulgent fragrance experience.",
+    "measurement": "15 ml",
+    "image": "https://dreamingtheme.kiendaotac.com/html/stelina/assets/images/product-item-16.jpg",
+    "category": "Oudh",
+    "origin": "UAE",
+    "ingredients": ["Oudh", "Musk"],
+    "price": "$20",
+    "additionalInfo": {
+      "longevity": "12-16 hours",
+      "sillage": "Strong",
+      "application": "Roll-on"
+    }
+  },
+  {
+    "id": 4,
+    "title": "Jasmine Attar",
+    "description": "Jasmine Attar is a light and refreshing fragrance that captures the sweet and intoxicating aroma of jasmine flowers. This attar is perfect for those who appreciate the purity and elegance of floral scents. Jasmine Attar opens with a fresh, green note that quickly transitions into the rich, sweet fragrance of jasmine blossoms. The scent is both uplifting and calming, making it ideal for daily wear, especially during the spring and summer months. The long-lasting nature of this attar ensures that the wearer enjoys the delicate fragrance of jasmine throughout the day, bringing a touch of nature's beauty to every moment. Jasmine Attar is particularly popular among women for its feminine and graceful scent. It is crafted using the finest jasmine flowers sourced from Egypt, ensuring an authentic and luxurious fragrance experience.",
+    "measurement": "10 ml",
+    "image": "https://dreamingtheme.kiendaotac.com/html/stelina/assets/images/product-item-8.jpg",
+    "category": "Floral",
+    "origin": "Egypt",
+    "ingredients": ["Jasmine", "Sandalwood"],
+    "price": "$10",
+    "additionalInfo": {
+      "longevity": "6-8 hours",
+      "sillage": "Moderate",
+      "application": "Roll-on"
+    }
+  },
+  {
+    "id": 5,
+    "title": "Amber Oud",
+    "description": "Amber Oud is a warm and resinous scent that combines the rich, golden aroma of amber with the deep, smoky notes of oudh. This attar is a testament to the art of blending, where two powerful fragrances come together to create a unique and captivating scent. Amber Oud is ideal for those who enjoy a fragrance that is both sophisticated and exotic. The scent opens with the sweet, honey-like aroma of amber, which is soon joined by the bold, earthy notes of oudh. This blend creates a fragrance that is both warm and inviting, perfect for evening wear or special occasions where a touch of luxury is desired. Amber Oud is particularly favored during the cooler months for its warm and enveloping scent. It is crafted using the finest amber and oudh sourced from Yemen, ensuring an authentic and luxurious fragrance experience.",
+    "measurement": "12 ml",
+    "image": "https://dreamingtheme.kiendaotac.com/html/stelina/assets/images/product-item-1.jpg",
+    "category": "Amber",
+    "origin": "Yemen",
+    "ingredients": ["Amber", "Oudh"],
+    "price": "$18",
+    "additionalInfo": {
+      "longevity": "8-12 hours",
+      "sillage": "Strong",
+      "application": "Roll-on"
+    }
+  },
+  {
+    "id": 6,
+    "title": "Sandalwood Attar",
+    "description": "Sandalwood Attar is a calming and woody fragrance that captures the rich, creamy aroma of sandalwood. Known for its soothing properties, sandalwood has been a staple in perfumery for centuries, valued for its ability to bring peace and tranquility. This attar is perfect for those who appreciate a deep, woody scent that is both warm and comforting. Sandalwood Attar opens with a rich, woody note that is both smooth and slightly sweet, creating a fragrance that is both elegant and grounding. Ideal for daily wear, especially during cooler months, Sandalwood Attar provides a long-lasting scent that brings a sense of calm to the wearer. Sandalwood Attar is particularly popular among those who practice meditation and yoga for its grounding properties. It is crafted using the highest quality sandalwood sourced from India, ensuring an authentic and luxurious fragrance experience.",
+    "measurement": "10 ml",
+    "image": "https://dreamingtheme.kiendaotac.com/html/stelina/assets/images/product-item-12.jpg",
+    "category": "Wood",
+    "origin": "India",
+    "ingredients": ["Sandalwood"],
+    "price": "$14",
+    "additionalInfo": {
+      "longevity": "6-8 hours",
+      "sillage": "Moderate",
+      "application": "Roll-on"
+    }
+  },
+  {
+    "id": 7,
+    "title": "Citrus Delight",
+    "description": "Citrus Delight is a fresh and invigorating fragrance that blends the zesty aromas of citrus fruits. This attar is perfect for those who enjoy a bright and lively scent that is both uplifting and energizing. Citrus Delight opens with a burst of lemon and orange notes, which are soon complemented by the subtle sweetness of bergamot. The combination creates a fragrance that is both refreshing and long-lasting, making it ideal for daily wear, especially during the warmer months. This attar brings a sense of joy and freshness to the wearer, making it a perfect choice for those who love the vibrant scents of nature. Citrus Delight is particularly popular during the summer months for its cooling and refreshing properties. It is crafted using the finest citrus fruits sourced from Spain, ensuring an authentic and luxurious fragrance experience.",
+    "measurement": "10 ml",
+    "image": "https://dreamingtheme.kiendaotac.com/html/stelina/assets/images/product-item-16.jpg",
+    "category": "Citrus",
+    "origin": "Spain",
+    "ingredients": ["Lemon", "Orange", "Bergamot"],
+    "price": "$11",
+    "additionalInfo": {
+      "longevity": "4-6 hours",
+      "sillage": "Light",
+      "application": "Roll-on"
+    }
+  },
+  {
+    "id": 8,
+    "title": "Vanilla Spice",
+    "description": "Vanilla Spice is a warm and comforting fragrance that blends the sweet aroma of vanilla with the rich, spicy notes of clove and cinnamon. This attar is perfect for those who appreciate a cozy and inviting scent that brings a sense of warmth and comfort. Vanilla Spice opens with a rich vanilla note that is both sweet and creamy, soon joined by the bold, spicy aromas of clove and cinnamon. The combination creates a fragrance that is both sophisticated and comforting, ideal for evening wear or for cozying up on a cold day. This attar provides a long-lasting scent that is both warm and inviting, making it a perfect choice for those who love a spicy, sweet fragrance. Vanilla Spice is particularly popular during the winter months for its warm and enveloping properties. It is crafted using the finest vanilla and spices sourced from Madagascar, ensuring an authentic and luxurious fragrance experience.",
+    "measurement": "12 ml",
+    "image": "https://dreamingtheme.kiendaotac.com/html/stelina/assets/images/product-item-8.jpg",
+    "category": "Spice",
+    "origin": "Madagascar",
+    "ingredients": ["Vanilla", "Clove", "Cinnamon"],
+    "price": "$16",
+    "additionalInfo": {
+      "longevity": "8-10 hours",
+      "sillage": "Moderate",
+      "application": "Roll-on"
+    }
+  },
+  {
+    "id": 9,
+    "title": "Frankincense Attar",
+    "description": "Frankincense Attar is a rich and aromatic fragrance that captures the essence of the ancient and revered frankincense resin. Known for its spiritual and meditative properties, frankincense has been used in perfumery and rituals for thousands of years. This attar is perfect for those who appreciate a deep, resinous scent that is both grounding and uplifting. Frankincense Attar opens with a fresh, citrusy note that quickly transitions into a warm, resinous aroma with hints of spice and wood. The long-lasting nature of this attar ensures that the wearer enjoys the soothing and meditative fragrance throughout the day, bringing a sense of peace and tranquility. Frankincense Attar is particularly popular among those who practice meditation and mindfulness for its calming properties. It is crafted using the highest quality frankincense resin sourced from Oman, ensuring an authentic and luxurious fragrance experience.",
+    "measurement": "10 ml",
+    "image": "https://example.com/images/frankincense_attar.jpg",
+    "category": "Resin",
+    "origin": "Oman",
+    "ingredients": ["Frankincense", "Sandalwood"],
+    "price": "$13",
+    "additionalInfo": {
+      "longevity": "8-10 hours",
+      "sillage": "Moderate",
+      "application": "Roll-on"
+    }
+  },
+  {
+    "id": 10,
+    "title": "Lavender Breeze",
+    "description": "Lavender Breeze is a light and calming fragrance that captures the fresh, floral aroma of lavender fields. This attar is perfect for those who appreciate a soothing and relaxing scent that brings a sense of peace and tranquility. Lavender Breeze opens with a fresh, green note that quickly transitions into the rich, floral fragrance of lavender blossoms. The scent is both uplifting and calming, making it ideal for daily wear, especially during the spring and summer months. The long-lasting nature of this attar ensures that the wearer enjoys the delicate fragrance of lavender throughout the day, bringing a touch of nature's beauty to every moment. Lavender Breeze is particularly popular among those who practice aromatherapy for its calming and relaxing properties. It is crafted using the finest lavender flowers sourced from France, ensuring an authentic and luxurious fragrance experience.",
+    "measurement": "10 ml",
+    "image": "https://example.com/images/lavender_breeze.jpg",
+    "category": "Floral",
+    "origin": "France",
+    "ingredients": ["Lavender", "Sandalwood"],
+    "price": "$12",
+    "additionalInfo": {
+      "longevity": "6-8 hours",
+      "sillage": "Light",
+      "application": "Roll-on"
+    }
+  },
+  {
+    "id": 11,
+    "title": "Patchouli Bliss",
+    "description": "Patchouli Bliss is a rich and earthy fragrance that captures the deep, woody aroma of patchouli leaves. Known for its grounding and calming properties, patchouli has been a staple in perfumery for centuries. This attar is perfect for those who appreciate a deep, woody scent that is both warm and comforting. Patchouli Bliss opens with a rich, earthy note that is both smooth and slightly sweet, creating a fragrance that is both elegant and grounding. Ideal for daily wear, especially during cooler months, Patchouli Bliss provides a long-lasting scent that brings a sense of calm to the wearer. Patchouli Bliss is particularly popular among those who practice meditation and yoga for its grounding properties. It is crafted using the highest quality patchouli leaves sourced from Indonesia, ensuring an authentic and luxurious fragrance experience.",
+    "measurement": "10 ml",
+    "image": "https://example.com/images/patchouli_bliss.jpg",
+    "category": "Wood",
+    "origin": "Indonesia",
+    "ingredients": ["Patchouli", "Sandalwood"],
+    "price": "$14",
+    "additionalInfo": {
+      "longevity": "6-8 hours",
+      "sillage": "Moderate",
+      "application": "Roll-on"
+    }
+  },
+  {
+    "id": 12,
+    "title": "Saffron Elixir",
+    "description": "Saffron Elixir is a luxurious and exotic fragrance that captures the rich, golden aroma of saffron. Known for its opulent and captivating scent, saffron has been a prized ingredient in perfumery for centuries. This attar is perfect for those who seek a bold and unforgettable fragrance that stands out. Saffron Elixir opens with a warm, spicy note that is both rich and slightly sweet, creating a fragrance that is both sophisticated and alluring. Ideal for evening wear or special occasions, Saffron Elixir provides a long-lasting scent that is both warm and inviting, making it a perfect choice for those who love a luxurious and exotic fragrance. Saffron Elixir is particularly popular during festive occasions and important events for its luxurious scent. It is crafted using the finest saffron strands sourced from Iran, ensuring an authentic and indulgent fragrance experience.",
+    "measurement": "12 ml",
+    "image": "https://example.com/images/saffron_elixir.jpg",
+    "category": "Spice",
+    "origin": "Iran",
+    "ingredients": ["Saffron", "Sandalwood"],
+    "price": "$25",
+    "additionalInfo": {
+      "longevity": "10-12 hours",
+      "sillage": "Strong",
+      "application": "Roll-on"
+    }
+  },
+  {
+    "id": 13,
+    "title": "Mint Fresh",
+    "description": "Mint Fresh is a refreshing and invigorating fragrance that captures the cool, crisp aroma of mint leaves. This attar is perfect for those who appreciate a bright and lively scent that is both uplifting and energizing. Mint Fresh opens with a burst of fresh, green mint notes, creating a fragrance that is both refreshing and long-lasting. Ideal for daily wear, especially during the warmer months, Mint Fresh provides a cooling and revitalizing scent that brings a sense of freshness to the wearer. Mint Fresh is particularly popular during the summer months for its cooling properties. It is crafted using the finest mint leaves sourced from Morocco, ensuring an authentic and luxurious fragrance experience.",
+    "measurement": "10 ml",
+    "image": "https://example.com/images/mint_fresh.jpg",
+    "category": "Herbal",
+    "origin": "Morocco",
+    "ingredients": ["Mint", "Sandalwood"],
+    "price": "$10",
+    "additionalInfo": {
+      "longevity": "4-6 hours",
+      "sillage": "Light",
+      "application": "Roll-on"
+    }
+  },
+  {
+    "id": 14,
+    "title": "Sage Serenity",
+    "description": "Sage Serenity is a calming and herbal fragrance that captures the fresh, earthy aroma of sage leaves. Known for its soothing properties, sage has been a staple in aromatherapy for centuries. This attar is perfect for those who appreciate a deep, herbal scent that is both grounding and relaxing. Sage Serenity opens with a fresh, green note that quickly transitions into a rich, earthy fragrance with hints of spice and wood. The long-lasting nature of this attar ensures that the wearer enjoys the soothing and meditative fragrance throughout the day, bringing a sense of peace and tranquility. Sage Serenity is particularly popular among those who practice meditation and mindfulness for its calming properties. It is crafted using the finest sage leaves sourced from Turkey, ensuring an authentic and luxurious fragrance experience.",
+    "measurement": "10 ml",
+    "image": "https://example.com/images/sage_serenity.jpg",
+    "category": "Herbal",
+    "origin": "Turkey",
+    "ingredients": ["Sage", "Sandalwood"],
+    "price": "$13",
+    "additionalInfo": {
+      "longevity": "6-8 hours",
+      "sillage": "Moderate",
+      "application": "Roll-on"
+    }
+  },
+  {
+    "id": 15,
+    "title": "Lemon Zest",
+    "description": "Lemon Zest is a bright and invigorating fragrance that captures the zesty and refreshing aroma of lemon. This attar is perfect for those who appreciate a lively and energizing scent that brings a sense of freshness and vitality. Lemon Zest opens with a burst of fresh, tangy lemon notes, creating a fragrance that is both refreshing and long-lasting. Ideal for daily wear, especially during the warmer months, Lemon Zest provides a cooling and revitalizing scent that brings a sense of brightness to the wearer. Lemon Zest is particularly popular during the summer months for its cooling and refreshing properties. It is crafted using the finest lemons sourced from Italy, ensuring an authentic and luxurious fragrance experience.",
+    "measurement": "10 ml",
+    "image": "https://example.com/images/lemon_zest.jpg",
+    "category": "Citrus",
+    "origin": "Italy",
+    "ingredients": ["Lemon", "Sandalwood"],
+    "price": "$10",
+    "additionalInfo": {
+      "longevity": "4-6 hours",
+      "sillage": "Light",
+      "application": "Roll-on"
+    }
+  }
+]
