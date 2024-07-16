@@ -1,6 +1,7 @@
 import Banner from "@/UI/components/banner/Banner";
 import BestSelling from "../bestSelling/BestSelling";
 import Category from "../category/Category";
+import NewArrival from "../newArrivals/NewArrival";
 
 const Home = () => {
   return (
@@ -8,6 +9,7 @@ const Home = () => {
       <Banner />
       <Category />
       <BestSelling />
+      <NewArrival />
     </div>
   );
 };
