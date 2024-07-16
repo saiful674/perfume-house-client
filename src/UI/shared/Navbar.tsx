@@ -1,5 +1,6 @@
 import { CgSearch } from "react-icons/cg";
 import { HiOutlineShoppingCart } from "react-icons/hi";
+import { Link } from "react-router-dom";
 const navItesm = [
   {
     title: "home",
@@ -48,13 +49,13 @@ function Navbar() {
           <div className="text-2xl font-bold">PERFUME HOUSE</div>
           <nav className="flex space-x-6">
             {navItesm.map((item) => (
-              <a
+              <Link
+                to={item.path}
                 key={item.title}
-                href="#"
                 className="text-primary hover:text-main uppercase font-semibold"
               >
                 {item.title}
-              </a>
+              </Link>
             ))}
           </nav>
           <div className="flex space-x-4 items-center">
