@@ -4,7 +4,7 @@ import Footer from "../../shared/Footer";
 
 const MainLayout = () => {
   return (
-    <div className="min-h-screen h-full">
+    <div className="min-h-screen h-full flex flex-col">
       <Navbar></Navbar>
       <Outlet />
       <div className="mt-auto">
